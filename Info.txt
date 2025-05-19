@@ -1,0 +1,6 @@
+1. Colours
+---> Brown - #341c10 - Logo Color
+---> Skin  - #fbd2a6 - Logo Color
+---> Brown - #382c2c - Website Header & Footer
+---> Off White - #f2f2f2 - Font Color
+---> Cold Gray - #0a0909 - Font Color  
